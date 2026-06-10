@@ -1,0 +1,12 @@
+D:\Claude\WebApiSolution\WebApiSolution.Domain\bin\Debug\net8.0\WebApiSolution.Domain.deps.json
+D:\Claude\WebApiSolution\WebApiSolution.Domain\bin\Debug\net8.0\WebApiSolution.Domain.dll
+D:\Claude\WebApiSolution\WebApiSolution.Domain\bin\Debug\net8.0\WebApiSolution.Domain.pdb
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.AssemblyInfoInputs.cache
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.AssemblyInfo.cs
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.csproj.CoreCompileInputs.cache
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.sourcelink.json
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.dll
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\refint\WebApiSolution.Domain.dll
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.pdb
+D:\Claude\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\ref\WebApiSolution.Domain.dll
