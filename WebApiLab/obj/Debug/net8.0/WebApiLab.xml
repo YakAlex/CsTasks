@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiLab</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiLab.Controllers.ProductsController.GetAll">
+            <summary>
+            Отримати список усіх товарів
+            </summary>
+            <returns>Список товарів</returns>
+        </member>
+        <member name="M:WebApiLab.Controllers.ProductsController.GetById(System.Int32)">
+            <summary>
+            Отримати товар за ідентифікатором
+            </summary>
+            <param name="id">Ідентифікатор товару</param>
+        </member>
+        <member name="M:WebApiLab.Controllers.ProductsController.Create(WebApiLab.DTOs.ProductCreateDto)">
+            <summary>
+            Створити новий товар
+            </summary>
+            <param name="dto">Дані нового товару</param>
+        </member>
+        <member name="M:WebApiLab.Controllers.ProductsController.Update(System.Int32,WebApiLab.DTOs.ProductUpdateDto)">
+            <summary>
+            Оновити існуючий товар
+            </summary>
+            <param name="id">Ідентифікатор товару</param>
+            <param name="dto">Нові дані товару</param>
+        </member>
+        <member name="M:WebApiLab.Controllers.ProductsController.Delete(System.Int32)">
+            <summary>
+            Видалити товар
+            </summary>
+            <param name="id">Ідентифікатор товару</param>
+        </member>
+    </members>
+</doc>
